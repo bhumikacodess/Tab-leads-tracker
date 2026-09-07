@@ -10,9 +10,11 @@ A simple chrome extension to save links so you dont loose them while browsing.
 - links stay saved even after closing chrome (using localStorage)
 
 ## Why i made this
-I am a fresher looking for job and wanted to build something 
-real to learn chrome extension apis and localstorage.I use this myself to save job posting links 
-while browsing so i dont lose them.
+Chrome already has bookmarks, so this isn't meant to replace that. 
+I built this to get hands on practice with the chrome extension 
+apis, diving into chrome.tabs and localstorage. It's a smaller, faster way to jot down links 
+i'm actively working through (like job postings while applying), 
+without digging through bookmark folders.
 
 ## Built with
 - javascript 
