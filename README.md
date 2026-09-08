@@ -1,6 +1,6 @@
 # Leads Tracker
 
-A simple chrome extension to save links so you dont loose them while browsing.
+A simple chrome extension to save links so you dont lose them while browsing.
 
 ## What it does
 - save the current tab link with one click
